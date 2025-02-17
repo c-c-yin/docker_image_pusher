@@ -3,10 +3,6 @@ calico/cni:v3.15.5
 calico/pod2daemon-flexvol:v3.15.5
 calico/node:v3.15.5
 calico/kube-controllers:v3.15.5
-docker-ce-20.10.9
-docker-ce-cli-20.10.9
-containerd.io
-docker-compose-plugin
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
