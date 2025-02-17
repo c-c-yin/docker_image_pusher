@@ -3,6 +3,9 @@ calico/cni:v3.15.5
 calico/pod2daemon-flexvol:v3.15.5
 calico/node:v3.15.5
 calico/kube-controllers:v3.15.5
+kubelet-1.23.17
+kubeadm-1.23.17
+kubectl-1.23.17
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
